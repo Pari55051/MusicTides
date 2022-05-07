@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;700&family=Zen+Tokyo+Zoo&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    color: #fff;
+}
+
+h1 {
+    font-family: 'Zen Tokyo Zoo', cursive;
+    text-align: center;
+    font-size: 75px;
+    padding-top: 10px;
+    color: #AFABFD ;
+}
+
+.title-text {
+    text-align: center;
+    margin-bottom: 15px;
+    color: #CAABFD;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.button {
+    background-color: #AFABFD;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 15px;
+}
+
+.button:hover {
+    background-color: #CCCCFF;
+    color: #fff;
+}
+
+h2 {
+    color: #AFABFD ;
+    margin-left: 50px;
+    font-size: 40px;
+}
+
+.songs {
+    padding: 25px;
+}
+
+audio {
+    height: 35px;
+    width: 285px;
+    margin: 10px;
+}
+
+.sn {
+    color: #CAABFD;
+}
+
+.sn:hover {
+    color: #77E0FC;
+}
+
+hr {
+    color: #CAABFD ;
+}
